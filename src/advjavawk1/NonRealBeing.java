@@ -15,3 +15,14 @@ abstract class NonRealBeing {
     abstract public void stats();
     
 }
+
+/*
+public interface NonRealBeing {
+    public abstract String getName();
+    
+    public abstract void setAge(String name);
+    
+    abstract public void stats();
+    
+}
+*/
