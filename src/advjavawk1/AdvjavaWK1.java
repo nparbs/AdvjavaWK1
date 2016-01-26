@@ -15,6 +15,8 @@ public class AdvjavaWK1 {
     /**
      * @param args the command line arguments
      */
+    
+    
     public static void main(String[] args) {
         //Fork
         Fork fork1 = new Fork();
